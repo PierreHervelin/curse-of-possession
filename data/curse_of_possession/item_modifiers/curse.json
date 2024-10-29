@@ -1,0 +1,4 @@
+{
+  "function": "minecraft:set_nbt",
+  "tag": "{Enchantments:[{id:\"minecraft:binding_curse\",lvl:1}],display:{Lore:['{\"text\":\"This item has Curse of Possession\",\"italic\":false,\"color\":\"dark_purple\",\"bold\": true}']},CurseOfPossession:1b}"
+}
